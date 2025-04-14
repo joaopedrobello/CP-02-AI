@@ -30,6 +30,4 @@ pip uninstall opencv-python-headless -y
 pip install opencv-python --upgrade
 ```
 
-## Apresentação
-```https://www.youtube.com/watch?v=8fOTgHIqjn4
-```
+## [Apresentação (yt)](https://www.youtube.com/watch?v=8fOTgHIqjn4)
